@@ -1,0 +1,56 @@
+LOOK AT NOTEBOOK FOR ANY HANDWRITTEN MATH!!!!
+
+Topic: Introduction and proofs
+In general a proof is:
+    - a method for establishing and verifying (ascertain) truth
+How do we ascertain truth?
+    - observation (bedrock of physics)
+    - sampling, counter examples
+        i) doing something over and over, and if consensus, truth
+            is established
+    - judges, jury (they establish what is true or not)
+    - religion, boss, professor: any source of authority
+In Mathematics, mathematical proofs are:
+    - a verification of a proposition by a chain of logical deductions
+        from a set of axioms
+    - The key three things from the definition:
+        i) proposition
+        ii) logical deductions
+        iii) axioms
+
+Def proposition: is a statement that is either true or false
+    - you may not know which one but is one or the other
+    - ex: 2 + 3 = 5
+    - ex: for all n in the set of natural numbers, n ^ 2 + n + 41 is a prime number
+        i) this is false
+
+n ^ 2 + n + 41 is a prime number is a predicate
+Def predicate: proposition whose truth depends on the value of a variable
+    - in a proposition predicate combo, in order of the proposition to be
+        true, every instance of the predicate must be true
+    
+Def: implication p -> q is true if p == false || q == true
+    - notice that anything that is false always implies anything
+        as true!
+    - I assume that p and q are predicates
+
+Def Axiom: a proposition that is assumed to be true
+    - there is No proof that an axiom is true, we just
+        assume it is because we think its reasonable
+        i) "axiom" comes from greek "think worthy"
+Axioms should be:
+    - consistent
+    - complete
+Def consistent: A set of axioms is consistent if no proposition can
+    be proved to be both True or false
+    - you want each proposition that the axiom helps define as
+        true of false to be one or the other; there is no point
+        for something that is both true and false
+Def complete: A set of axioms is complete if it can be used to prove
+    that every proposition is either True or false
+Kurt Godel's incompleteness theorem states that axioms can't be both
+consistent and complete
+
+Reasonably, we want consistency, but therefore, that means that there
+are true facts that can never be proven.
+    - ex Goldbach's conjecture maybe True, but it is impossible to prove
